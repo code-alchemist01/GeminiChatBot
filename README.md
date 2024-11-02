@@ -72,3 +72,34 @@ proje/
 ├── .gitignore # Git tarafından göz ardı edilecek dosyalar
 └── README.md # Proje dokümantasyonu
 ```
+
+
+## 🤝 Katkıda Bulunma
+
+1. Bu repository'yi fork edin
+2. Yeni bir branch oluşturun (`git checkout -b feature/yeniOzellik`)
+3. Değişikliklerinizi commit edin (`git commit -am 'Yeni özellik: XYZ'`)
+4. Branch'inizi push edin (`git push origin feature/yeniOzellik`)
+5. Pull Request oluşturun
+
+## 📝 Lisans
+
+Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır.
+
+## 👥 Geliştirici
+
+- [Kutay](https://github.com/code-alchemist01)
+
+## 🙏 Teşekkürler
+
+- Google Gemini AI
+- Streamlit
+- Tüm katkıda bulunanlara
+
+## 📞 İletişim
+
+Sorularınız için: [ibrahimkutaysahin577@gmail.com]
+
+---
+
+⭐️ Bu projeyi beğendiyseniz yıldız vermeyi unutmayın!
