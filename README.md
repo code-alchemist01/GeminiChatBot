@@ -14,8 +14,8 @@ Bu proje, Google Gemini AI kullanarak öğrencilere interaktif konu anlatımı v
 
 1. Repository'yi klonlayın:
 
-'''
+```
 bash
 git clone https://github.com/kullaniciadi/proje-adi.git
 cd proje-adi
-'''
+ ```
