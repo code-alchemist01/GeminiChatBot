@@ -63,7 +63,7 @@ streamlit run app.py
 - [Diğer gereksinimler için requirements.txt dosyasına bakın]
 
 ## 📁 Proje Yapısı
-
+```
 proje/
 │
 ├── app.py # Ana uygulama dosyası
@@ -71,4 +71,4 @@ proje/
 ├── .env # Çevresel değişkenler
 ├── .gitignore # Git tarafından göz ardı edilecek dosyalar
 └── README.md # Proje dokümantasyonu
-
+```
