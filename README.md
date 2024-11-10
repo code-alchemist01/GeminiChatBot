@@ -89,6 +89,7 @@ Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır.
 ## 👥 Geliştirici
 
 - [Kutay](https://github.com/code-alchemist01)
+- [Salih] (https://github.com/salihfurkaan) 
 
 ## 🙏 Teşekkürler
 
